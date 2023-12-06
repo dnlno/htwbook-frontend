@@ -52,7 +52,7 @@ export default {
 
 .home-container {
   font-family: 'Open Sans', sans-serif;
-  background-color: #04B404; /* Grüner Hintergrund für den gesamten Container */
+  background-color: #333; /* Grüner Hintergrund für den gesamten Container */
   padding-top: 20px; /* Grüne Lücke am oberen Rand */
   margin: 0;
 }
@@ -112,7 +112,7 @@ export default {
 .home-hero-button1 {
   background-color: #FFFFFF; /* Weißer Hintergrund */
   color: #333; /* Dunkle Schriftfarbe */
-  border: 2px solid #037103; /* Grüne Outline */
+  border: 2px solid #333; /* Grüne Outline */
 }
 
 .home-hero-button1:hover {
@@ -120,7 +120,7 @@ export default {
 }
 
 .home-hero-button2 {
-  background-color: #037103;
+  background-color: #333;
   color: #f8f8f8; /* Weiße Schriftfarbe */
   margin-right: 30px;
   margin-left: 30px;
@@ -131,7 +131,7 @@ export default {
 }
 
 .home-hero {
-  background-color: #04B404; /* Grüner Hintergrund für den Hero-Bereich */
+  background-color: #333; /* Grüner Hintergrund für den Hero-Bereich */
   padding: 150px 0; /* Verringerte obere Polsterung */
   text-align: center;
 }
